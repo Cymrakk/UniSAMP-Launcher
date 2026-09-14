@@ -1,1 +1,1 @@
-# journey-samp-launcher
+# Universal SAMP Launcher (UniSAMP)
