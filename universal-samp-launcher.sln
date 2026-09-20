@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+# SharpDevelop 5.1
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "universal-samp-launcher", "universal-samp-launcher.csproj", "{E3F5DFD3-723B-4044-BB48-2461DF680F43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3F5DFD3-723B-4044-BB48-2461DF680F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F5DFD3-723B-4044-BB48-2461DF680F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F5DFD3-723B-4044-BB48-2461DF680F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F5DFD3-723B-4044-BB48-2461DF680F43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
